@@ -39,6 +39,8 @@ g++ -o game main.cpp Unit.cpp Warrior.cpp Mage.cpp Archer.cpp Healer.cpp Game.cp
 ```
 
 ## Функции
+<img width="1262" height="660" alt="Снимок экрана 2026-06-30 160821" src="https://github.com/user-attachments/assets/28a54e78-6ed1-4236-adf3-34d8f1e09545" />
+
 1. Создать персонажа (выбор класса)
 2. Показать всех персонажей
 3. Детали персонажа
